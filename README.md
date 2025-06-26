@@ -8,7 +8,7 @@ Wanna try it out? Here’s how to get it running:
 
 1. **Grab the Code**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AmrViernes/palm-wellness.git
    cd wellness
    ```
 
